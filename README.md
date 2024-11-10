@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @WillEnyong
-- 👀 I’m interested in room sex
+- 👋 Hi, I’m Will
 - 🌱 I’m currently learning project web
 - 💞️ I’m looking to collaborate on self
 - 📫 How to reach me happy
