@@ -1,5 +1,3 @@
-## 🚀 WHTech
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+open+source!;Let's+collaborate!" alt="Typing SVG"/>
 </p>
