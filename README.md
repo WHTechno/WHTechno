@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Will
-- 🌱 I’m currently learning project web
-- 💞️ I’m looking to collaborate on self
-- 📫 How to reach me happy
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=nord_dark)](https://github.com/WillEnyong)
 
-<!---
-WillEnyong/WillEnyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME&theme=nord_dark)
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=nord_dark)
