@@ -1,3 +1,5 @@
+# WillEnyong
+
 <p align="center">
   <svg width="300" height="120" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
     <style>
@@ -22,15 +24,14 @@
       }
     </style>
     <text x="150" y="60" class="burning-text" text-anchor="middle">WHTech</text>
-    <text x="150" y="90" class="typing-text" text-anchor="middle">
-      Powered by WHTech
-    </text>
+    <text x="150" y="90" class="typing-text" text-anchor="middle">Powered by WHTech</text>
   </svg>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillEnyong&theme=nord_dark" alt="Top Languages" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WillEnyong&theme=nord_dark" alt="GitHub Stats" width="400" />
