@@ -6,7 +6,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillENyong&theme=nord_dark" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillEnyong&theme=nord_dark" alt="Top Langs" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WillEnyong&theme=nord_dark" alt="Commit Stats" />
 </p>
 
