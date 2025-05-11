@@ -7,13 +7,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WillEnyong&theme=nord_dark" alt="Top Languages" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WillEnyong&theme=nord_dark" alt="GitHub Stats" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WHTechno&theme=nord_dark" alt="Top Languages" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WHTechno&theme=nord_dark" alt="GitHub Stats" width="400" />
 </p>
 
 ---
 
 ### 📌 Profile Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillEnyong&theme=nord_dark" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WHTechno&theme=nord_dark" alt="Profile Details" width="100%" />
 </p>
